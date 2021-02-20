@@ -213,7 +213,8 @@ html {
   display: flex;
   justify-content: right;
   list-style: none;
-  margin-right: 10%;
+  margin-right: 7%;
+  font-size: 17px;
 }
 
 .logo {
