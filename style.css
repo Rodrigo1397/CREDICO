@@ -189,7 +189,7 @@ body {
 
   font-size: 18px;
   color: rgb(255, 255, 255);
-  background-color: rgb(99, 93, 93);
+  background-color: rgb(110, 43, 88);
 }
 
 /* barra */
@@ -215,6 +215,10 @@ html {
   list-style: none;
   margin-right: 7%;
   font-size: 17px;
+  color: white;
+}
+.nav-a{
+  color: white;
 }
 
 .logo {
@@ -503,3 +507,8 @@ width: 45px;
   width: 45px;
   }
   
+.redes {
+height: 100%;
+width: 100%;
+    }
+    
