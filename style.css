@@ -69,7 +69,7 @@ a:hover{
   position: relative;
   background-image: url(/imagenes/Cerdito.png);
   width: 100%;
-  height: 100vh;
+  height: 120vh;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -101,7 +101,10 @@ a:hover{
   background-color: transparent;
 }
 
-.contact-area{
+.formulario-area{
+  background-color: transparent;
+}
+.contacto-area{
   background-color: transparent;
 }
 
