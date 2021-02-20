@@ -252,11 +252,7 @@
                     <label for="number">Telefono:</label>
                     <input type="number" class="form-control" id="number" name="number" required>
                   </div>
-                  <!-- Estado -->
-                  <div class="form-group">
-                    <label for="Estado">Estado donde vive:</label>
-                    <input type="text" class="form-control" id="Estado" name="Estado" required>
-                  </div> </br>
+
                      <!-- monto -->
                     <div class="colFor form-floating">
                      <select class="form-select" id="floatingSelect" aria-label="Floating label select example" name="floatingSelect">
@@ -285,7 +281,7 @@
                   </br>
                      <!-- estado -->
                      <div class="colFor form-floating">
-                      <select class="form-select" id="floatingSelect" aria-label="Floating label select example" name="floatingSelect">
+                      <select class="form-select" id="estado" aria-label="Floating label select example" name="estado">
                           <option selected>Selecciona su Estado</option>
                           <option value="Aguascalientes">Aguascalientes</option>
                           <option value="Baja California">Baja California</option>
@@ -320,13 +316,13 @@
                           <option value="14">Yucatan</option>
                           <option value="14">Zacatecas</option>
                       </select>    
-                             <label for="floatingSelect">Estado </label>
+                             <label for="estado">Estado </label>
                      </div>
                    </br>
                   <!-- mensaje -->
                   <div class="form-group">
                     <label for="message">Mensaje: </label>
-                    <textarea class="form-control" rows="2" id="message" name="message" required></textarea>
+                    <textarea class="form-control" rows="1" id="message" name="message" required></textarea>
                   </div>
                   <div class="form-group">
                     <div data-netlify-recaptcha="true"></div>
