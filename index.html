@@ -244,20 +244,26 @@
       <form name="contact" method="POST" data-netlify="true" class="colFor form-floating mb-3">
       <label for="floatingInput">Correo electronico: 
       <input type="email" class="form-control mb-4" id="floatingInput" placeholder="name@example.com" name="email">
-    </label>  -->
+    </label> 
+                    <div class="colFor form-floating mb-3">
+                    <input type="text" class="form-control" id="floatingInput" placeholder="name@example.com" name="name">
+                    <label for="floatingInput">Nombre</label>
+                  </div> 
+  -->
+
                 <!-- FORMULARIO -->
                 <form name="contact" method="POST" data-netlify="true" class="colFor form-floating mb-3">
+                  <!-- NOMBRE -->
                   <p>
                     <label for="floatingInput">Nombre: 
-                      <input type="text" name="name" class="form-control mb-4" id="floatingInput" /></label>   
+                      <input type="text" name="name" /></label>   
+                  </p>
+                  <!-- email -->
+                  <p>
+                    <label>Tu correo: <input type="email" name="email" /></label>
                   </p>
                   <p>
-                    <label for="floatingInput">Tu correo: 
-                      <input type="email" name="email" class="form-control mb-4" id="floatingInput"/></label>
-                  </p>
-                  <p>
-                    <label for="floatingInput">Monto: 
-                      <select name="role[]" multiple>
+                    <label>Monto: <select name="role[]" multiple>
                       <option value="leader">Leader</option>
                       <option value="follower">Follower</option>
                     </select></label>
@@ -323,13 +329,11 @@
     -->
   </body>
 </html>
-
+ 
                 <!-- FORMULARIO -->
 
-                <!-- <form name="contact" method="POST" data-netlify="true" class="colFor form-floating mb-3">
-                  <label for="floatingInput">Correo electronico: 
-                  <input type="email" class="form-control mb-4" id="floatingInput" placeholder="name@example.com" name="email">
-                </label>
+                <form name="contact" method="POST" data-netlify="true" class="colFor form-floating mb-3">
+
                   <div class="colFor form-floating">
                     <select class="form-select" id="floatingSelect" aria-label="Floating label select example" name="select">
                       <option selected>Monto</option>
@@ -410,4 +414,4 @@
                 </form>
                 </div>
             </div>
-        </div> --> 
+        </div> 
