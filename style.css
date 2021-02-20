@@ -7,109 +7,6 @@
   background-color: rgb(251, 210, 133);
   color: rgb(251, 210, 133);
 */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-color: transparent;
-}
-
-body { 
-  
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-  font-size: 18px;
-  color: rgb(255, 255, 255);
-  background-color: rgb(99, 93, 93);
-}
-
-/* barra */
-html {
-  scroll-behavior: smooth;
-}
-
-
-.navbar{
-  position: fixed;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-  background-color:transparent;
-  width: 100%;
-  height: 70px;
-  z-index: 1;
-}
-.nav{
-  display: flex;
-  justify-content: right;
-  list-style: none;
-  margin-right: 15%;
-}
-.logo {
-  flex: 1 1 auto;
-  margin-left: 10%;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-img{
-  width: 20%;
-}
-a{
-  margin: 15px;
-  color: #000;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-a:hover{
-  color: #000;
-}
-.banner-area{
-  position: relative;
-  background-image: url(/imagenes/Cerdito.png);
-  width: 100%;
-  height: 120vh;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.about-area, .port-area, .service-area, .contact-area{
-  position: relative;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  flex-direction: row;
-  width: 100%;
-  height: 700px;
-}
-.text-part{
-  width: 65%;
-  height: 80%;
-}        
-.nosotros-area{
-  background-color: transparent;
-}
-.pronafim-area{
-  background-color: transparent;
-}
-.ubicacion-area{
-  background-color: transparent;
-}
-.apoyo-area{
-  background-color: transparent;
-}
-
-.formulario-area{
-  background-color: transparent;
-}
-.contacto-area{
-  background-color: transparent;
-}
-
-
-
 
 /* burbujas */
 .tamaño {
@@ -279,6 +176,107 @@ a:hover{
     transform: translateY(0);
   }
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: transparent;
+}
+
+body { 
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(99, 93, 93);
+}
+
+/* barra */
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar{
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color:transparent;
+  width: 100%;
+  height: 70px;
+  z-index: 1;
+}
+.nav{
+  display: flex;
+  justify-content: right;
+  list-style: none;
+  margin-right: 10%;
+}
+
+.logo {
+  flex: 1 1 auto;
+  margin-left: 10%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+img{
+  width: 20%;
+}
+a{
+  margin: 15px;
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+a:hover{
+  color: #000;
+}
+.banner-area{
+  position: relative;
+  background-image: url(/imagenes/Cerdito.png);
+  width: 100%;
+  height: 120vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-area, .port-area, .service-area, .contact-area{
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+  height: 700px;
+}
+.text-part{
+  width: 65%;
+  height: 80%;
+}        
+.nosotros-area{
+  background-color: transparent;
+}
+.pronafim-area{
+  background-color: transparent;
+}
+.ubicacion-area{
+  background-color: transparent;
+}
+.apoyo-area{
+  background-color: transparent;
+}
+
+.formulario-area{
+  background-color: transparent;
+}
+.contacto-area{
+  background-color: transparent;
+}
+
 
 /* ------------------------- */
 .principal {
@@ -286,17 +284,6 @@ a:hover{
   height: 100vh;
   z-index: 800;
   position: relative;
-
-  /* clip-path: polygon(
-    29% 1%,
-    53% 25%,
-    56% 57%,
-    95% 87%,
-    55% 96%,
-    0 85%,
-    10% 54%,
-    6% 18%
-  );*/
 }
 
 
@@ -329,25 +316,12 @@ a:hover{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 /* barra de navegacion */
-.nav-link {
-  color: rgb(255, 255, 255);
-  transition: 0.9s;
-}
-.inicio {
-  background-color: rgb(251, 210, 133);
-  border-radius: 20%;
-  }
-.nav-link.active {
-  height: 35px;
-}
 
-a.nav-link:hover {
-  color: rgb(16, 173, 174);
-  transform: scale(1.2);
-}
+
+
 .btn {
-  color: rgb(16, 173, 174);
-  background-color: black;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
 }
 .j {
   background-color: transparent;
