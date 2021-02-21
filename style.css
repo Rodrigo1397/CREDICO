@@ -361,12 +361,12 @@ a:hover {
 }
 .titulo1-1 {
   font-size: 24px;
-  color: rgb(251, 210, 133);
+  color: rgb(16, 173, 174);
   font-weight: 800;
   position: relative;
 }
 H4 {
-  color: rgb(16, 173, 174);
+  color: rgb(255, 255, 255);
   font-size: 40px;
   margin-top: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -424,18 +424,18 @@ H4 {
 
 .parrafo1 {
   font-size: 19px;
-  color: rgb(251, 210, 133);
+  color: rgb(16, 173, 174);
   position: relative;
 }
 
 .parrafo2 {
   font-size: 19px;
-  color: rgb(251, 210, 133);
+  color: rgb(16, 173, 174);
   position: relative;
 }
 .parrafo3 {
   font-size: 19px;
-  color: rgb(251, 210, 133);
+  color: rgb(16, 173, 174);
   position: relative;
 }
 .nube {
@@ -459,7 +459,7 @@ H4 {
 .prestamoTxt2 {
   text-align: center;
   font-size: 65px;
-  color: rgb(251, 210, 133);
+  color: rgb(16, 173, 174);
   position: relative;
 }
 .prestamoTxt3 {
@@ -482,7 +482,7 @@ H4 {
   color: black;
 }
 .titulo5-1 {
-  color: rgb(251, 210, 133);
+  color: rgb(16, 173, 174);
   font-weight: 800;
   text-align: center;
   font-size: 35px;
