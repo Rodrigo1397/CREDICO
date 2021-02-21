@@ -188,7 +188,40 @@ body {
 
   font-size: 18px;
   color: rgb(255, 255, 255);
-  background-color: rgb(75, 16, 19);
+  background-image: radial-gradient(
+    circle at 50% 76.49%,
+    #7cb367 0,
+    #6eb570 3.33%,
+    #5eb67a 6.67%,
+    #4cb884 10%,
+    #36b98f 13.33%,
+    #11b99b 16.67%,
+    #00baa6 20%,
+    #00bab2 23.33%,
+    #00babd 26.67%,
+    #00b9c8 30%,
+    #00b8d2 33.33%,
+    #00b7db 36.67%,
+    #00b6e3 40%,
+    #00b4ea 43.33%,
+    #00b2f0 46.67%,
+    #11aff4 50%,
+    #41acf7 53.33%,
+    #5ea9f7 56.67%,
+    #75a5f7 60%,
+    #89a1f4 63.33%,
+    #9b9df0 66.67%,
+    #ac98eb 70%,
+    #bb94e4 73.33%,
+    #c890dc 76.67%,
+    #d38cd3 80%,
+    #dd88c9 83.33%,
+    #e585bf 86.67%,
+    #eb83b4 90%,
+    #f082a9 93.33%,
+    #f2829d 96.67%,
+    #f48292 100%
+  );
 }
 
 /* barra */
@@ -304,7 +337,7 @@ a:hover {
   top: 25vh;
   width: 35vw;
   right: 14vw;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 33px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 800;
@@ -316,7 +349,7 @@ a:hover {
   top: 13vh;
   width: 35vw;
   right: -3vw;
-  color: rgb(255, 252, 252);
+  color: rgb(0, 0, 0);
   font-size: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -385,11 +418,11 @@ a:hover {
 .titulo1 {
   font-size: 18px;
   position: relative;
-  color: rgb(231, 231, 231);
+  color: rgb(0, 0, 0);
 }
 .titulo10 {
   font-size: 30px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-weight: 500;
   position: relative;
 }
@@ -400,7 +433,7 @@ a:hover {
   position: relative;
 }
 H4 {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 40px;
   margin-top: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -427,7 +460,6 @@ H4 {
   padding: 0%;
   margin: 0;
   background-color: transparent;
-  /* background-color: transparent; */
   position: relative;
 }
 
@@ -480,14 +512,14 @@ H4 {
 }
 .titulo4 {
   font-size: 19px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   text-align: left;
   position: relative;
 }
 .prestamoTxt {
   text-align: center;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   position: relative;
 }
 .prestamoTxt2 {
@@ -499,13 +531,13 @@ H4 {
 .prestamoTxt3 {
   text-align: center;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   position: relative;
 }
 .prestamoTxt4 {
   text-align: center;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   position: relative;
 }
 
@@ -513,7 +545,7 @@ H4 {
   text-align: center;
   font-size: 25px;
   position: relative;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 .titulo5-1 {
   color: rgb(240, 253, 0);
@@ -547,7 +579,7 @@ H4 {
 }
 .txtFor2 {
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   position: relative;
 }
 
