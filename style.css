@@ -344,21 +344,30 @@ a:hover {
 .carousel {
   height: 100%;
   width: 100%;
+  position: relative;
+
 }
 
 /* titulo */
 .titulo1 {
   font-size: 18px;
+  position: relative;
+  color: #000;
+
 }
 .titulo10 {
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-weight: 500;
+  position: relative;
+
 }
 .titulo1-1 {
   font-size: 24px;
   color: rgb(251, 210, 133);
   font-weight: 800;
+  position: relative;
+
 }
 H4 {
   color: rgb(16, 173, 174);
@@ -366,6 +375,8 @@ H4 {
   margin-top: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 800;
+  position: relative;
+
 }
 
 .card-header {
@@ -380,6 +391,7 @@ H4 {
 
 .card-body {
   background-color: transparent;
+  position: relative;
 }
 
 .card {
@@ -387,22 +399,30 @@ H4 {
   margin: 0;
   background-color: transparent;
   /* background-color: transparent; */
+  position: relative;
+
 }
 
 /* NOSOTROS */
 .nosotros {
   width: 115%;
   height: 360px;
+  position: relative;
+
 }
 /* SERVICIO */
 .servicio {
   height: 400px;
   width: 570px;
+  position: relative;
+
 }
 /* PRESTAMO */
 .prestamo {
   height: 500px;
   width: 500px;
+  position: relative;
+
 }
 /* viejo foto */
 .viejo {
@@ -414,68 +434,89 @@ H4 {
 .parrafo1 {
   font-size: 19px;
   color: rgb(251, 210, 133);
+  position: relative;
+
 }
 
 .parrafo2 {
   font-size: 19px;
   color: rgb(251, 210, 133);
+  position: relative;
+
 }
 .parrafo3 {
   font-size: 19px;
   color: rgb(251, 210, 133);
+  position: relative;
+
 }
 .nube {
   position: relative;
   height: 100vh;
   width: 50vw;
+  position: relative;
 }
 .titulo4 {
   font-size: 19px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   text-align: left;
+  position: relative;
 }
 .prestamoTxt {
   text-align: center;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  position: relative;
 }
 .prestamoTxt2 {
   text-align: center;
   font-size: 65px;
   color: rgb(251, 210, 133);
+  position: relative;
+
 }
 .prestamoTxt3 {
   text-align: center;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  position: relative;
+
 }
 .prestamoTxt4 {
   text-align: center;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(7, 7, 7);
+  position: relative;
 }
 
 .titulo5 {
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
+  position: relative;
+  color: black;
 }
 .titulo5-1 {
   color: rgb(251, 210, 133);
   font-weight: 800;
   text-align: center;
-  font-size: 23px;
+  font-size: 35px;
+  position: relative;
 }
 .ubicacion {
   height: 100%;
   width: 100%;
+  position: relative;
 }
 .ubicacion2 {
   height: 105%;
   width: 100%;
+  position: relative;
 }
 .casa {
   height: 100vh;
   width: 100%;
+  position: relative;
+
 }
 
 /* formulario */
@@ -483,33 +524,40 @@ H4 {
   font-size: 30px;
   color: rgb(16, 173, 174);
   font-weight: 900;
+  position: relative;
 }
 .txtFor2 {
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  position: relative;
 }
 
 .colFor {
   color: rgb(0, 0, 0);
+  position: relative;
+
 }
 
 .face {
   height: 45px;
   width: 45px;
+  position: relative;
 }
 
 .llamada {
   height: 45px;
   width: 45px;
+  position: relative;
 }
 
 .redes {
   height: 100%;
   width: 100%;
+  position: relative;
 }
 .rosa {
-  height: 100%;
+  height: 10000px;
   width: 100%;
-  margin-top: -700%;
+  margin-top: -600%;
   opacity: 1;
 }
