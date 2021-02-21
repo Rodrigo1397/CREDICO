@@ -330,7 +330,7 @@ a:hover {
   background-color: transparent;
 }
 .col-barra1 {
-  color: rgb(0, 221, 255);
+  color: rgb(253, 0, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
@@ -345,17 +345,17 @@ a:hover {
   font-size: 25px;
 }
 .col-barra4 {
-  color: rgb(255, 255, 255);
+  color: rgb(255, 247, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
 .col-barra5 {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 255, 21);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
 .col-barra6 {
-  color: rgb(255, 255, 255);
+  color: #00f2ff;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
