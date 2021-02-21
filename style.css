@@ -330,7 +330,7 @@ a:hover {
   background-color: transparent;
 }
 .col-barra1 {
-  color: rgb(253, 0, 0);
+  color: rgb(255, 255, 255);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
@@ -360,7 +360,7 @@ a:hover {
   font-size: 25px;
 }
 .col-barra7 {
-  color: rgb(255, 255, 255);
+  color: rgb(255, 8, 8);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
@@ -584,6 +584,9 @@ H4 {
   position: relative;
 }
 
+.formulario-area {
+  position: relative;
+}
 .formulario-area {
   position: relative;
 }
