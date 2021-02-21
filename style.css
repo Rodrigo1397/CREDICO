@@ -238,7 +238,6 @@ html {
   flex-wrap: wrap;
   background-color: transparent;
   width: 100%;
-  height: 70px;
   z-index: 1;
 }
 .nav {
@@ -247,7 +246,7 @@ html {
   list-style: none;
   margin-right: 7%;
   font-size: 17px;
-  color: white;
+  color: transparent;
 }
 .nav-a {
   color: white;
@@ -353,46 +352,43 @@ a:hover {
   font-size: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-/* barra de navegacion */
 
-.btn {
-  color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
+.navbar-nav .col-barra0 {
+  color: rgb(16, 157, 40);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
 }
-.j {
-  background-color: transparent;
-}
-.col-barra1 {
+.navbar-nav .col-barra1 {
   color: rgb(255, 255, 255);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
-.col-barra2 {
+.navbar-nav .col-barra2 {
   color: rgb(0, 47, 255);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
-.col-barra3 {
+.navbar-nav .col-barra3 {
   color: rgb(255, 196, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
-.col-barra4 {
+.navbar-nav .col-barra4 {
   color: rgb(255, 247, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
-.col-barra5 {
+.navbar-nav .col-barra5 {
   color: rgb(0, 255, 21);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
-.col-barra6 {
+.navbar-nav .col-barra6 {
   color: #00f2ff;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
 }
-.col-barra7 {
+.navbar-nav .col-barra7 {
   color: rgb(255, 8, 8);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
