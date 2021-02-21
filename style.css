@@ -356,11 +356,11 @@ font-size: 20px;
 .titulo1 {
   font-size: 18px;
   position: relative;
-  color: rgb(255, 255, 255);
+  color: rgb(231, 231, 231);
 }
 .titulo10 {
-  font-size: 20px;
-  color: rgb(255, 255, 255);
+  font-size: 25px;
+  color: rgb(0, 0, 0);
   font-weight: 500;
   position: relative;
 }
