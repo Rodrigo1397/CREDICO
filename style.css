@@ -395,7 +395,7 @@ a:hover {
 }
 .titulo1-1 {
   font-size: 24px;
-  color: rgb(16, 173, 174);
+  color: #00f2ff;
   font-weight: 800;
   position: relative;
 }
@@ -547,7 +547,7 @@ H4 {
 }
 .txtFor2 {
   font-size: 20px;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   position: relative;
 }
 
