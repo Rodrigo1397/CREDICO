@@ -329,10 +329,10 @@ a:hover {
 .j {
   background-color: transparent;
 }
-.col-barra{
-color:rgb(255, 255, 255);
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-font-size: 20px;
+.col-barra {
+  color: rgb(255, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
 }
 
 /*parrafo*/
@@ -512,7 +512,7 @@ H4 {
 /* formulario */
 .txtFor1 {
   font-size: 30px;
-  color: rgb(16, 173, 174);
+  color: rgb(255, 0, 0);
   font-weight: 900;
   position: relative;
 }
@@ -556,5 +556,5 @@ H4 {
 }
 
 .formulario-area {
-position: relative;
+  position: relative;
 }
