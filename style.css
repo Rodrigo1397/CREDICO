@@ -608,3 +608,10 @@ H4 {
 .form-select {
   cursor: pointer;
 }
+.card {
+  background: rgba(255, 255, 255, 0.1);
+}
+.centrarVertical {
+  display: flex;
+  justify-items: center;
+}
