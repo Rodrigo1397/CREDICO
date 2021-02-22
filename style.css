@@ -229,7 +229,7 @@ html {
   scroll-behavior: smooth;
 }
 
-.navbar {
+nav {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -237,37 +237,11 @@ html {
   flex-wrap: wrap;
   background-color: transparent;
   width: 100%;
+  min-height: 80px;
   z-index: 1;
-}
-.nav {
-  display: flex;
-  justify-content: right;
-  list-style: none;
-  margin-right: 7%;
-  font-size: 17px;
-  color: transparent;
 }
 .nav-a {
   color: white;
-}
-
-.logo {
-  flex: 1 1 auto;
-  margin-left: 10%;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-img {
-  width: 20%;
-}
-a {
-  margin: 15px;
-  color: #000;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-a:hover {
-  color: #000;
 }
 .banner-area {
   position: relative;
@@ -321,7 +295,7 @@ a:hover {
 }
 
 .logotipo {
-  width: 70px;
+  width: 50px;
 }
 .nombre-logo {
   width: 120px;
@@ -518,7 +492,7 @@ H4 {
 .prestamoTxt2 {
   text-align: center;
   font-size: 65px;
-  color: rgb(247, 215, 35);
+  color: tomato;
 }
 .prestamoTxt3 {
   text-align: center;
@@ -558,7 +532,7 @@ H4 {
 }
 
 /* formulario */
-.txtFor1 {
+p.txtFor1 {
   font-size: 30px;
   color: rgb(238, 230, 0);
   font-weight: 900;
@@ -578,6 +552,9 @@ H4 {
   width: 45px;
   position: relative;
 }
+img.face {
+  padding: 0;
+}
 
 .llamada {
   height: 45px;
@@ -586,7 +563,7 @@ H4 {
 }
 
 .redes {
-  width: 100%;
+  width: 90%;
 }
 .rosa {
   height: 8150px;
@@ -614,4 +591,28 @@ H4 {
 .centrarVertical {
   display: flex;
   justify-items: center;
+}
+.footer {
+  width: 100%;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.2);
+}
+.noe {
+  position: relative;
+  top: 8px;
+}
+.sectionHeader {
+  width: 100%;
+  height: 80px;
+}
+.navbar-nav {
+  display: flex;
+  justify-items: center;
+}
+.marginTop {
+  margin-top: 80px;
+}
+.section {
+  width: 100%;
+  height: 85px;
 }
