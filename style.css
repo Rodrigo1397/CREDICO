@@ -412,12 +412,7 @@ a:hover {
   position: relative;
   color: rgb(0, 0, 0);
 }
-.titulo10 {
-  font-size: 30px;
-  color: rgb(0, 0, 0);
-  font-weight: 500;
-  position: relative;
-}
+
 .titulo1-1 {
   font-size: 24px;
   color: #00f2ff;
@@ -465,9 +460,11 @@ H4 {
 }
 /* SERVICIO */
 .servicio {
-  height: 400px;
-  width: 570px;
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 /* PRESTAMO */
 .prestamo {
@@ -500,9 +497,12 @@ H4 {
 }
 .nube {
   position: relative;
-  height: 100vh;
-  width: 50vw;
-  position: relative;
+  width: 100%;
+}
+.centrar {
+  display: flex;
+  justify-items: center;
+  align-items: center;
 }
 .titulo4 {
   font-size: 19px;
@@ -514,25 +514,21 @@ H4 {
   text-align: center;
   font-size: 20px;
   color: rgb(0, 0, 0);
-  position: relative;
 }
 .prestamoTxt2 {
   text-align: center;
   font-size: 65px;
   color: rgb(247, 215, 35);
-  position: relative;
 }
 .prestamoTxt3 {
   text-align: center;
   font-size: 20px;
   color: rgb(0, 0, 0);
-  position: relative;
 }
 .prestamoTxt4 {
   text-align: center;
   font-size: 20px;
   color: rgb(0, 0, 0);
-  position: relative;
 }
 
 .titulo5 {
@@ -549,7 +545,6 @@ H4 {
   position: relative;
 }
 .ubicacion {
-  height: 800px;
   width: 100%;
   position: relative;
 }
@@ -559,7 +554,6 @@ H4 {
   position: relative;
 }
 .casa {
-  height: 100vh;
   width: 100%;
   position: relative;
 }
@@ -569,12 +563,10 @@ H4 {
   font-size: 30px;
   color: rgb(238, 230, 0);
   font-weight: 900;
-  position: relative;
 }
 .txtFor2 {
   font-size: 20px;
   color: rgb(0, 0, 0);
-  position: relative;
 }
 
 .colFor {
@@ -595,9 +587,7 @@ H4 {
 }
 
 .redes {
-  height: 700px;
   width: 100%;
-  position: relative;
 }
 .rosa {
   height: 8150px;
