@@ -555,7 +555,6 @@ H4 {
 }
 .casa {
   width: 100%;
-  position: relative;
 }
 
 /* formulario */
@@ -605,4 +604,7 @@ H4 {
 }
 .formulario-area {
   position: relative;
+}
+.form-select {
+  cursor: pointer;
 }
