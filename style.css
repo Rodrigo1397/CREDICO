@@ -235,7 +235,7 @@ nav {
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.3);
   width: 100%;
   min-height: 80px;
   z-index: 1;
@@ -243,6 +243,14 @@ nav {
 }
 nav.sticky {
   background: rgba(0, 0, 0, 0.7);
+}
+div#navbarNav.navbar-collapse.collapse {
+  transition: 1s all;
+}
+div#navbarNav.navbar-collapse.collapse.show {
+  margin-top: 10px;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.4);
 }
 .nav-a {
   color: white;
@@ -643,4 +651,11 @@ img.face {
 .section {
   width: 100%;
   height: 85px;
+}
+.menu {
+  width: 30px;
+  cursor: pointer;
+}
+.ocultar {
+  display: none;
 }
