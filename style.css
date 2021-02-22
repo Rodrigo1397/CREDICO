@@ -336,65 +336,65 @@ div#navbarNav.navbar-collapse.collapse.show {
 }
 
 .navbar-nav .col-barra0 {
-  color: rgb(16, 157, 40);
+  color: rgb(251, 210, 133);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra0.sticky {
-  color: red;
+  color: rgb(16, 173, 174);
 }
 .navbar-nav .col-barra1 {
-  color: rgb(255, 255, 255);
+  color: rgb(16, 173, 174);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra1.sticky {
-  color: red;
+  color: rgb(251, 210, 133);
 }
 .navbar-nav .col-barra2 {
-  color: rgb(0, 47, 255);
+  color: rgb(251, 210, 133);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra2.sticky {
-  color: red;
+  color: rgb(16, 173, 174);
 }
 .navbar-nav .col-barra3 {
-  color: rgb(255, 196, 0);
+  color: rgb(16, 173, 174);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra3.sticky {
-  color: red;
+  color: rgb(251, 210, 133);
 }
 .navbar-nav .col-barra4 {
-  color: rgb(255, 247, 0);
+  color: rgb(251, 210, 133);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra4.sticky {
-  color: red;
+  color: rgb(16, 173, 174);
 }
 .navbar-nav .col-barra5 {
-  color: rgb(0, 255, 21);
+  color: rgb(16, 173, 174);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra5.sticky {
-  color: red;
+  color: rgb(251, 210, 133);
 }
 .navbar-nav .col-barra6 {
-  color: #00f2ff;
+  color: rgb(251, 210, 133);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra6.sticky {
-  color: red;
+  color: rgb(16, 173, 174);
 }
 .navbar-nav .col-barra7 {
   color: rgb(255, 8, 8);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 a#link.nav-link.active.col-barra7.sticky {
   color: red;
@@ -418,9 +418,9 @@ a#link.nav-link.active.col-barra7.sticky {
 
 /* titulo */
 .titulo1 {
-  font-size: 18px;
+  font-size: 23px;
   position: relative;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 
 .titulo1-1 {
@@ -430,7 +430,7 @@ a#link.nav-link.active.col-barra7.sticky {
   position: relative;
 }
 H4 {
-  color: rgb(0, 0, 0);
+  color: rgb(251, 210, 133);
   font-size: 40px;
   margin-top: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -522,30 +522,30 @@ H4 {
 }
 .prestamoTxt {
   text-align: center;
-  font-size: 20px;
-  color: rgb(0, 0, 0);
+  font-size: 25px;
+  color: white;
 }
 .prestamoTxt2 {
   text-align: center;
   font-size: 65px;
-  color: tomato;
+  color: #00f2ff;
 }
 .prestamoTxt3 {
   text-align: center;
-  font-size: 20px;
-  color: rgb(0, 0, 0);
+  font-size: 25px;
+  color: white;
 }
 .prestamoTxt4 {
   text-align: center;
-  font-size: 20px;
-  color: rgb(0, 0, 0);
+  font-size: 25px;
+  color: white;
 }
 
 .titulo5 {
   text-align: center;
   font-size: 25px;
   position: relative;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 .titulo5-1 {
   color: rgb(240, 253, 0);
